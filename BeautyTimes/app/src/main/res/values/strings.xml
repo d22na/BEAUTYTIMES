@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BeautyTimes</string>
+    <string name="service">Service</string>
+    <string name="price">Price</string>
+    <string name="haircut">Haircut</string>
+    <string name="_60_sar">60 SAR</string>
+    <string name="Nail_art">Nail art</string>
+    <string name="_30_sar">30 SAR</string>
+    <string name="blowout">Blowout</string>
+    <string name="_80_sar">80 SAR</string>
+    <string name="hair_color">Hair Color</string>
+    <string name="_250_sar">250 SAR</string>
+    <string name="service_name">Service name</string>
+    <string name="_45_min_sar_60_0">45 min • SAR 60.0</string>
+</resources>

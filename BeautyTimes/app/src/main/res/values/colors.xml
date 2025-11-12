@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="brand_primary">#6200EE</color>
+    <color name="brand_primary_container">#ECE6FF</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+
+    <color name="brand_secondary">#03DAC6</color>
+
+    <color name="brand_surface">#FFFFFF</color>
+    <color name="brand_on_surface">#000000</color>  <!-- Changed to pure black -->
+
+    <!-- Card background -->
+    <color name="card_bg">#FFFFFF</color>
+</resources>

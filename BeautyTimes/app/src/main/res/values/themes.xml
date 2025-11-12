@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main App Theme -->
+    <style name="Theme.BeautyTimes" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryVariant">@color/brand_primary_container</item>
+        <item name="colorOnPrimary">@color/brand_on_primary</item>
+
+        <item name="colorSecondary">@color/brand_secondary</item>
+
+        <item name="android:colorBackground">@color/brand_surface</item>
+        <item name="android:textColor">@color/brand_on_surface</item>
+
+        <!-- Shapes -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MediumRound</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MediumRound</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.LargeRound</item>
+    </style>
+
+    <!-- Shared shape appearances -->
+    <style name="ShapeAppearance.MediumRound" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="ShapeAppearance.LargeRound" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+</resources>

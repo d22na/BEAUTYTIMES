@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="#FF6200EE"
+    android:layout_margin="8dp"
+    android:gravity="center_vertical"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/rowTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Service Name"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rowSubtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Duration • Price"
+        android:textSize="16sp"
+        android:textColor="#CCFFFFFF"
+        android:layout_marginTop="4dp" />
+
+</LinearLayout>
